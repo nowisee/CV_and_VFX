@@ -1,0 +1,1 @@
+fd_using_DP('scene1-1.ppm', 'scene1-2.ppm');
